@@ -1,6 +1,7 @@
 # Readability
 
 ### Program used to level text readability using the Coleman-Liau index
+This project is part of Harvard's CS50x course.
 
 ## Usage
 
@@ -14,6 +15,6 @@ Grade 3
 
 ## Author
 
-Caio Milani
+*caiomilanic*
 
 find me @ https://github.com/caiomilanic
